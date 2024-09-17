@@ -1,6 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+* {
+  box-sizing: border-box;
+}
+@keyframes alternateScroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.animate-alternate-scroll {
+  animation: alternateScroll 20s linear infinite alternate;
+}
+
 
 :root {
   --background: #ffffff;
