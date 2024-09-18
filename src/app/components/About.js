@@ -21,7 +21,7 @@ export default function About() {
           <h3 className="text-2xl font-semibold mb-4">Education</h3>
           <p className="mb-2">
             <strong>B.Sc. in Computer Science</strong> <br />
-            Ontario Tech University – Ontario, Canada (2022 – 2024) <br />
+            Algoma University – Ontario, Canada (2022 – 2024) <br />
             Deans List (2022-2024)
           </p>
           <p className="mb-4">
