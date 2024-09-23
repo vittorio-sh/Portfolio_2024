@@ -37,11 +37,11 @@ export default function About() {
         <div className="w-full">
           <h3 className="text-2xl font-semibold mb-4 pt-4">Skills</h3>
           <ul className="list-disc pl-5 space-y-2">
-            <li>Languages: JavaScript, Java, HTML, NodeJs</li>
+            <li>Languages: JavaScript, Java</li>
             <li>Style Sheets: CSS, Tailwind CSS</li>
             <li>Frameworks/Libraries: React, Next.js</li>
             <li>Databases: MongoDB, Firebase, SQL</li>
-            <li>Tools: Git, GitHub, Figma, Vercel</li>
+            <li>Tools: Git, GitHub, Figma, Vercel,HTML,NodeJs</li>
           </ul>
         </div>
 
