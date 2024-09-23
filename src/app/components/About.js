@@ -50,7 +50,7 @@ export default function About() {
           <div className="mb-4">
             <strong>Front-End Developer Intern</strong> <br />
             Virtumed - <a href="https://virtumed2.vercel.app" target="_blank" rel="noopener noreferrer" className="text-cyan-300 underline">Link</a> <br />
-            March 2024 – June 2024
+            July 2024 – Sept 2024
           </div>
           <ul className="list-disc pl-5 space-y-2">
           <li>
